@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_master"
+        android:title="Shrek" />
+    <item
+        android:id="@+id/nav_setting"
+        android:title="Forza" />
+    <item
+        android:id="@+id/nav_next_activity"
+        android:title="Следующая activity" />
+</menu>
